@@ -1,4 +1,4 @@
-# Sortowanie dwóch liczb
+# Sortowanie trzech liczb
 ## Specyfikacja
 ### Wejście
 * a, b, c ⊂ C - liczby do posortowania
