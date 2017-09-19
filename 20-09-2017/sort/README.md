@@ -6,4 +6,4 @@
 Posortowane liczby.
 
 ## Schemat blokowy
-![Schemat blokowy](diagram.svg)
+![Schemat blokowy](diagram.png)
